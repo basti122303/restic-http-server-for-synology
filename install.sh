@@ -15,6 +15,7 @@
 # 2021-03-29  www.axelhahn.de  init ... but WIP
 # 2021-03-31  www.axelhahn.de  create logrotate.d
 # 2025-12-26  www.axelhahn.de  fetch version from h2 node (arm64 linux compiled version is not available in html source)
+# 2026-05-28  basti122303      add multi-arch support
 # ======================================================================
 
 set -e
